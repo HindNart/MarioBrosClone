@@ -1,0 +1,2366 @@
+fileFormatVersion: 2
+guid: feb8fb216f6a1ac49aa38d4028db66d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2773065573728886917
+    second: luigi_0
+  - first:
+      213: 4577359851889802786
+    second: luigi_1
+  - first:
+      213: -8651142670417363386
+    second: luigi_2
+  - first:
+      213: -2756506821597662097
+    second: luigi_3
+  - first:
+      213: -6750832514236065215
+    second: luigi_4
+  - first:
+      213: -3915763597413070518
+    second: luigi_5
+  - first:
+      213: 8068720190335056839
+    second: luigi_6
+  - first:
+      213: 3239065812878815982
+    second: luigi_7
+  - first:
+      213: 3249926557938102058
+    second: luigi_8
+  - first:
+      213: -2473183494764870534
+    second: luigi_9
+  - first:
+      213: 8128873652509114528
+    second: luigi_10
+  - first:
+      213: 1232385547977771614
+    second: luigi_11
+  - first:
+      213: -1121037279915666603
+    second: luigi_12
+  - first:
+      213: -2562863246094513459
+    second: luigi_13
+  - first:
+      213: 5581218124918305808
+    second: luigi_14
+  - first:
+      213: -2637183046301575414
+    second: luigi_15
+  - first:
+      213: 73326231038041766
+    second: luigi_16
+  - first:
+      213: 4197410568412874470
+    second: luigi_17
+  - first:
+      213: -8320765934540523554
+    second: luigi_18
+  - first:
+      213: -7741165521894572278
+    second: luigi_19
+  - first:
+      213: 2327313574959136306
+    second: luigi_20
+  - first:
+      213: 1313721679995323624
+    second: luigi_21
+  - first:
+      213: -4064237504500625108
+    second: luigi_22
+  - first:
+      213: 2204998812953515617
+    second: luigi_23
+  - first:
+      213: 7906082457021806800
+    second: luigi_24
+  - first:
+      213: 5290731269746969854
+    second: luigi_25
+  - first:
+      213: -3293422831408851234
+    second: luigi_26
+  - first:
+      213: -1004071710732241203
+    second: luigi_27
+  - first:
+      213: 4277803111750110094
+    second: luigi_28
+  - first:
+      213: 8357842572253109297
+    second: luigi_29
+  - first:
+      213: -483703178904504985
+    second: luigi_30
+  - first:
+      213: -4655878111291146608
+    second: luigi_31
+  - first:
+      213: 1494757763517434441
+    second: luigi_32
+  - first:
+      213: 2372789972969400306
+    second: luigi_33
+  - first:
+      213: -6845666452812565684
+    second: luigi_34
+  - first:
+      213: -8237859053881431890
+    second: luigi_35
+  - first:
+      213: 4690278420052509618
+    second: luigi_36
+  - first:
+      213: -2959751673840628892
+    second: luigi_37
+  - first:
+      213: -5418339013977199051
+    second: luigi_38
+  - first:
+      213: -2914008044028861621
+    second: luigi_39
+  - first:
+      213: -3138842116354932363
+    second: luigi_40
+  - first:
+      213: 6989911750838912173
+    second: luigi_41
+  - first:
+      213: -8660544259032275346
+    second: luigi_42
+  - first:
+      213: 9159251590113759797
+    second: luigi_43
+  - first:
+      213: -1385295326596613611
+    second: luigi_44
+  - first:
+      213: -5932864238090341399
+    second: luigi_45
+  - first:
+      213: 2979581385664000790
+    second: luigi_46
+  - first:
+      213: 2693547091747501708
+    second: luigi_47
+  - first:
+      213: 3735000900764587501
+    second: luigi_48
+  - first:
+      213: -3613272196228672487
+    second: luigi_49
+  - first:
+      213: 645537363422725793
+    second: luigi_50
+  - first:
+      213: 247890702667348938
+    second: luigi_51
+  - first:
+      213: -7863768458365988111
+    second: luigi_52
+  - first:
+      213: 3016227109025975184
+    second: luigi_53
+  - first:
+      213: 177343665067055956
+    second: luigi_54
+  - first:
+      213: -8281808162368524323
+    second: luigi_55
+  - first:
+      213: 2297509021589373311
+    second: luigi_56
+  - first:
+      213: 6358272464518732276
+    second: luigi_57
+  - first:
+      213: 5494263593255039604
+    second: luigi_58
+  - first:
+      213: -1433084376639917277
+    second: luigi_59
+  - first:
+      213: -6500232984598753074
+    second: luigi_60
+  - first:
+      213: -604267206567342924
+    second: luigi_61
+  - first:
+      213: -2805666789149402567
+    second: luigi_62
+  - first:
+      213: 7427502125258970580
+    second: luigi_63
+  - first:
+      213: 1084837486264733014
+    second: luigi_64
+  - first:
+      213: 3438127591650761606
+    second: luigi_65
+  - first:
+      213: -2777632051236801690
+    second: luigi_66
+  - first:
+      213: 7134191276126291485
+    second: luigi_67
+  - first:
+      213: 6143119578418754391
+    second: luigi_68
+  - first:
+      213: 772442927361919320
+    second: luigi_69
+  - first:
+      213: 2587356972810151503
+    second: luigi_70
+  - first:
+      213: -1458749821292772281
+    second: luigi_71
+  - first:
+      213: 5603311684952897823
+    second: luigi_72
+  - first:
+      213: -2902590953328476571
+    second: luigi_73
+  - first:
+      213: -439578730817098935
+    second: luigi_74
+  - first:
+      213: -3749601539903413891
+    second: luigi_75
+  - first:
+      213: 6039197975420004553
+    second: luigi_76
+  - first:
+      213: -6364877145743509798
+    second: luigi_77
+  - first:
+      213: 4114030254293029486
+    second: luigi_78
+  - first:
+      213: -4273989286061003254
+    second: luigi_79
+  - first:
+      213: 1454737777184679043
+    second: luigi_80
+  - first:
+      213: 2733391411166697252
+    second: luigi_81
+  - first:
+      213: 2608339223848593713
+    second: luigi_82
+  - first:
+      213: 8119048751749000594
+    second: luigi_83
+  - first:
+      213: -7136051196814804229
+    second: luigi_84
+  - first:
+      213: 7861600582906750398
+    second: luigi_85
+  - first:
+      213: -1552833988978188747
+    second: luigi_86
+  - first:
+      213: 5248562464035615852
+    second: luigi_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: luigi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f56039d871489d0800000000000000
+      internalID: -2773065573728886917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 171
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eb60d888c068f30800000000000000
+      internalID: 4577359851889802786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 171
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e7c84b397f0f780800000000000000
+      internalID: -8651142670417363386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 171
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64fabd76abeeb9d0800000000000000
+      internalID: -2756506821597662097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 171
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a5dc288993052a0800000000000000
+      internalID: -6750832514236065215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49c9c731c968a9c0800000000000000
+      internalID: -3915763597413070518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 171
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb71f0634ad9ff60800000000000000
+      internalID: 8068720190335056839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 171
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2f0cc023973fc20800000000000000
+      internalID: 3239065812878815982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f22005cfe0a1d20800000000000000
+      internalID: 3249926557938102058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 171
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a744e2a07bc7dadd0800000000000000
+      internalID: -2473183494764870534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 171
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a086d1b48f8fc070800000000000000
+      internalID: 8128873652509114528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 171
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a4a8d50205a1110800000000000000
+      internalID: 1232385547977771614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 171
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55318ae88864170f0800000000000000
+      internalID: -1121037279915666603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcac1a0d471ee6cd0800000000000000
+      internalID: -2562863246094513459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 141
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0143ab56058747d40800000000000000
+      internalID: 5581218124918305808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 142
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a071385edf7d66bd0800000000000000
+      internalID: -2637183046301575414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 142
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae9db191d1840100800000000000000
+      internalID: 73326231038041766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 142
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e648b25ca2304a30800000000000000
+      internalID: 4197410568412874470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 142
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed77a84c773b68c80800000000000000
+      internalID: -8320765934540523554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_19
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 142
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ff8f7e8fad19490800000000000000
+      internalID: -7741165521894572278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 142
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e3264ad574c4020800000000000000
+      internalID: 2327313574959136306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 142
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4c9d558e64b3210800000000000000
+      internalID: 1313721679995323624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 142
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c219b6dd58de897c0800000000000000
+      internalID: -4064237504500625108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 142
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1669040ecbab99e10800000000000000
+      internalID: 2204998812953515617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 142
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d87bbf3b1c08bd60800000000000000
+      internalID: 7906082457021806800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 141
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcc15fee047c6940800000000000000
+      internalID: 5290731269746969854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6d6b652696b42d0800000000000000
+      internalID: -3293422831408851234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 103
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc639c05912d012f0800000000000000
+      internalID: -1004071710732241203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 103
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b0deee34fcd5b30800000000000000
+      internalID: 4277803111750110094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 104
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c98c7a9850df370800000000000000
+      internalID: 8357842572253109297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 104
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7657ba4858a8949f0800000000000000
+      internalID: -483703178904504985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 103
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e79f2968ff26fb0800000000000000
+      internalID: -4655878111291146608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_32
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 103
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ac6bf24427eb410800000000000000
+      internalID: 1494757763517434441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 103
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f72379a8e7dde020800000000000000
+      internalID: 2372789972969400306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_34
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 103
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c437c4d81ae4ff0a0800000000000000
+      internalID: -6845666452812565684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_35
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 104
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea869a726de3dad80800000000000000
+      internalID: -8237859053881431890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_36
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 104
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b309e47f57371140800000000000000
+      internalID: 4690278420052509618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_37
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 103
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b8c59b889dce6d0800000000000000
+      internalID: -2959751673840628892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_38
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 103
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eaf37df513ec4b0800000000000000
+      internalID: -5418339013977199051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_39
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 108
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43670f7f1d5f87d0800000000000000
+      internalID: -2914008044028861621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57101a8b9b79074d0800000000000000
+      internalID: -3138842116354932363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_41
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 71
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4051804b7210160800000000000000
+      internalID: 6989911750838912173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_42
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 69
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6625d6c1e09fc780800000000000000
+      internalID: -8660544259032275346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 69
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532992d1bc23c1f70800000000000000
+      internalID: 9159251590113759797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 69
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a33357d3176cce0800000000000000
+      internalID: -1385295326596613611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_45
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 70
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3b10cb86b3aada0800000000000000
+      internalID: -5932864238090341399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_46
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 70
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6137ed7db79995920800000000000000
+      internalID: 2979581385664000790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_47
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 70
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8675651fc6616520800000000000000
+      internalID: 2693547091747501708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 70
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de556d5c78365d330800000000000000
+      internalID: 3735000900764587501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_49
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 70
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9149efad4141bddc0800000000000000
+      internalID: -3613272196228672487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_50
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 70
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6cd04dfc865f800800000000000000
+      internalID: 645537363422725793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_51
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 69
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbfb9bd74fa07300800000000000000
+      internalID: 247890702667348938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_52
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 69
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f29c2b40484ed290800000000000000
+      internalID: -7863768458365988111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_53
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 69
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b8563339acbd920800000000000000
+      internalID: 3016227109025975184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_54
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 71
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bdc7faf1d067200800000000000000
+      internalID: 177343665067055956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_55
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 69
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfe710fa5b111d80800000000000000
+      internalID: -8281808162368524323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71071c484462ef10800000000000000
+      internalID: 2297509021589373311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_57
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 33
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f959c07e1f1d3850800000000000000
+      internalID: 6358272464518732276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_58
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 33
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472f352d0ab8f3c40800000000000000
+      internalID: 5494263593255039604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 34
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323373d2a59ac1ce0800000000000000
+      internalID: -1433084376639917277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_60
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 34
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0d6bb4a888ac5a0800000000000000
+      internalID: -6500232984598753074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_61
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 34
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcc22b5d263d97f0800000000000000
+      internalID: -604267206567342924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 33
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a93aa9be44019d0800000000000000
+      internalID: -2805666789149402567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_63
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 33
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5158094d9c31760800000000000000
+      internalID: 7427502125258970580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_64
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 33
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d46df22fd1e0f00800000000000000
+      internalID: 1084837486264733014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_65
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 33
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b10d024dea6bf20800000000000000
+      internalID: 3438127591650761606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_66
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 34
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6637a4dad5ed379d0800000000000000
+      internalID: -2777632051236801690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_67
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 34
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16c235ca2db10360800000000000000
+      internalID: 7134191276126291485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_68
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 34
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753b56c75beb04550800000000000000
+      internalID: 6143119578418754391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_69
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 33
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8598ba6ffb448ba00800000000000000
+      internalID: 772442927361919320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_70
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 33
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46aa77557328e320800000000000000
+      internalID: 2587356972810151503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_71
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 38
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7440ead24ca71cbe0800000000000000
+      internalID: -1458749821292772281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19b9633a46f2cd40800000000000000
+      internalID: 5603311684952897823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_73
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ef79218ece7b7d0800000000000000
+      internalID: -2902590953328476571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_74
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b64da297d46e9f0800000000000000
+      internalID: -439578730817098935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_75
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71acc4044db6fbc0800000000000000
+      internalID: -3749601539903413891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_76
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8ea25cf8a8fc350800000000000000
+      internalID: 6039197975420004553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_77
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6b4f065f96ba7a0800000000000000
+      internalID: -6364877145743509798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_78
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62985e18b8f71930800000000000000
+      internalID: 4114030254293029486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_79
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e228e836dbfa4c0800000000000000
+      internalID: -4273989286061003254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_80
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3842f620d44403410800000000000000
+      internalID: 1454737777184679043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_81
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427d1be9105fee520800000000000000
+      internalID: 2733391411166697252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_82
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139a63b54bea23420800000000000000
+      internalID: 2608339223848593713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_83
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29de31ab2d7aca070800000000000000
+      internalID: 8119048751749000594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_84
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa3ad2be37a7fc90800000000000000
+      internalID: -7136051196814804229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_85
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5292ed3140a1d60800000000000000
+      internalID: 7861600582906750398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_86
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e5dcbd6b9337ae0800000000000000
+      internalID: -1552833988978188747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: luigi_87
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64ba42c0c3a6d840800000000000000
+      internalID: 5248562464035615852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      luigi_0: -2773065573728886917
+      luigi_1: 4577359851889802786
+      luigi_10: 8128873652509114528
+      luigi_11: 1232385547977771614
+      luigi_12: -1121037279915666603
+      luigi_13: -2562863246094513459
+      luigi_14: 5581218124918305808
+      luigi_15: -2637183046301575414
+      luigi_16: 73326231038041766
+      luigi_17: 4197410568412874470
+      luigi_18: -8320765934540523554
+      luigi_19: -7741165521894572278
+      luigi_2: -8651142670417363386
+      luigi_20: 2327313574959136306
+      luigi_21: 1313721679995323624
+      luigi_22: -4064237504500625108
+      luigi_23: 2204998812953515617
+      luigi_24: 7906082457021806800
+      luigi_25: 5290731269746969854
+      luigi_26: -3293422831408851234
+      luigi_27: -1004071710732241203
+      luigi_28: 4277803111750110094
+      luigi_29: 8357842572253109297
+      luigi_3: -2756506821597662097
+      luigi_30: -483703178904504985
+      luigi_31: -4655878111291146608
+      luigi_32: 1494757763517434441
+      luigi_33: 2372789972969400306
+      luigi_34: -6845666452812565684
+      luigi_35: -8237859053881431890
+      luigi_36: 4690278420052509618
+      luigi_37: -2959751673840628892
+      luigi_38: -5418339013977199051
+      luigi_39: -2914008044028861621
+      luigi_4: -6750832514236065215
+      luigi_40: -3138842116354932363
+      luigi_41: 6989911750838912173
+      luigi_42: -8660544259032275346
+      luigi_43: 9159251590113759797
+      luigi_44: -1385295326596613611
+      luigi_45: -5932864238090341399
+      luigi_46: 2979581385664000790
+      luigi_47: 2693547091747501708
+      luigi_48: 3735000900764587501
+      luigi_49: -3613272196228672487
+      luigi_5: -3915763597413070518
+      luigi_50: 645537363422725793
+      luigi_51: 247890702667348938
+      luigi_52: -7863768458365988111
+      luigi_53: 3016227109025975184
+      luigi_54: 177343665067055956
+      luigi_55: -8281808162368524323
+      luigi_56: 2297509021589373311
+      luigi_57: 6358272464518732276
+      luigi_58: 5494263593255039604
+      luigi_59: -1433084376639917277
+      luigi_6: 8068720190335056839
+      luigi_60: -6500232984598753074
+      luigi_61: -604267206567342924
+      luigi_62: -2805666789149402567
+      luigi_63: 7427502125258970580
+      luigi_64: 1084837486264733014
+      luigi_65: 3438127591650761606
+      luigi_66: -2777632051236801690
+      luigi_67: 7134191276126291485
+      luigi_68: 6143119578418754391
+      luigi_69: 772442927361919320
+      luigi_7: 3239065812878815982
+      luigi_70: 2587356972810151503
+      luigi_71: -1458749821292772281
+      luigi_72: 5603311684952897823
+      luigi_73: -2902590953328476571
+      luigi_74: -439578730817098935
+      luigi_75: -3749601539903413891
+      luigi_76: 6039197975420004553
+      luigi_77: -6364877145743509798
+      luigi_78: 4114030254293029486
+      luigi_79: -4273989286061003254
+      luigi_8: 3249926557938102058
+      luigi_80: 1454737777184679043
+      luigi_81: 2733391411166697252
+      luigi_82: 2608339223848593713
+      luigi_83: 8119048751749000594
+      luigi_84: -7136051196814804229
+      luigi_85: 7861600582906750398
+      luigi_86: -1552833988978188747
+      luigi_87: 5248562464035615852
+      luigi_9: -2473183494764870534
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

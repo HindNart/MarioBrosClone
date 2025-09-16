@@ -3,10 +3,10 @@ using UnityEngine;
 
 public class Cannon : MonoBehaviour
 {
-    public ObjectPool bulletPool;
-    public Transform firePointLeft;
-    public Transform firePointRight;
-    public float fireInterval = 5f;
+    [SerializeField] private ObjectPool bulletPool;
+    [SerializeField] private Transform firePointLeft;
+    [SerializeField] private Transform firePointRight;
+    [SerializeField] private float fireInterval = 5f;
 
     private Transform player;
 

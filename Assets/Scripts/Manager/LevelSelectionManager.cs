@@ -10,7 +10,6 @@ public class LevelSelectionManager : MonoBehaviour
     {
         FlagPole.OnUnlockLevel += UnlockLevel;
         Nam.OnUnlockLevel += UnlockLevel;
-        Princess.OnUnlockLevel += UnlockLevel;
     }
 
     private void UnlockLevel(int lvl)

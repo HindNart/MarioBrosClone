@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Firebar : MonoBehaviour
 {
-    public float rotationSpeed = 50f;
+    [SerializeField] private float rotationSpeed = 50f;
 
     private void Update()
     {

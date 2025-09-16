@@ -2,9 +2,9 @@ using UnityEngine;
 
 public class BridgeDown : MonoBehaviour
 {
-    public GameObject bridge;
-    public GameObject bridgeConnection;
-    public GameObject bowser;
+    [SerializeField] private GameObject bridge;
+    [SerializeField] private GameObject bridgeConnection;
+    [SerializeField] private GameObject bowser;
 
     private void OnTriggerEnter2D(Collider2D other)
     {

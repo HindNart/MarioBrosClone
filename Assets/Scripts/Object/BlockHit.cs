@@ -3,9 +3,9 @@ using UnityEngine;
 
 public class BlockHit : MonoBehaviour
 {
-    public int maxHits = -1;
-    public Sprite emptyBlock;
-    public GameObject item;
+    [SerializeField] private int maxHits = -1;
+    [SerializeField] private Sprite emptyBlock;
+    [SerializeField] private GameObject item;
 
     private bool animating;
 

@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class Bar : MonoBehaviour
 {
-    public Transform pointA, pointB;
-    public float moveSpeed = 10f;
+    [SerializeField] private Transform pointA, pointB;
+    [SerializeField] private float moveSpeed = 10f;
 
     private Transform targetPoint;
 

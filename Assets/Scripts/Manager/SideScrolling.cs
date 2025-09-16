@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class SideScrolling : MonoBehaviour
 {
-    public float height = 5.5f;
-    public float undergroundHeight = -10.5f;
+    [SerializeField] private float height = 5.5f;
+    [SerializeField] private float undergroundHeight = -10.5f;
 
     private Transform player;
 

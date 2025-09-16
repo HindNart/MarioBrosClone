@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class Piranha : MonoBehaviour
 {
-    public float waitToMove = 2f;
+    [SerializeField] private float waitToMove = 2f;
 
     private CapsuleCollider2D coll;
 

@@ -4,10 +4,8 @@ using UnityEngine.SceneManagement;
 
 public class Princess : MonoBehaviour
 {
-    public float waitTime = 3f;
-    public GameObject winBanner;
-
-    public static event System.Action<int> OnUnlockLevel;
+    [SerializeField] private float waitTime = 3f;
+    [SerializeField] private GameObject winBanner;
 
     private void Awake()
     {

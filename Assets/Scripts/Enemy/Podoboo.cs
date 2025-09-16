@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class Podoboo : MonoBehaviour
 {
-    public Transform pointA, pointB;
-    public float moveSpeed = 3f;
+    [SerializeField] private Transform pointA, pointB;
+    [SerializeField] private float moveSpeed = 3f;
 
     private Transform targetPoint;
 

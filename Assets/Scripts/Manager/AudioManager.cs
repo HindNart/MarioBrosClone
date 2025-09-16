@@ -7,28 +7,28 @@ public class AudioManager : MonoBehaviour
     public AudioSource songSource;
     public AudioSource sfxSource;
 
-    public AudioClip groundTheme;
-    public AudioClip undergroundTheme;
-    public AudioClip castleTheme;
+    [SerializeField] private AudioClip groundTheme;
+    [SerializeField] private AudioClip undergroundTheme;
+    [SerializeField] private AudioClip castleTheme;
 
-    public AudioClip marioDie;
-    public AudioClip stageClear;
-    public AudioClip castleClear;
-    public AudioClip win;
-    public AudioClip gameOver;
-    public AudioClip _1up;
-    public AudioClip bowserFall;
-    public AudioClip bowserFire;
-    public AudioClip coin;
-    public AudioClip shootFireBall;
-    public AudioClip flagPole;
-    public AudioClip jump;
-    public AudioClip pauseGame;
-    public AudioClip pipe;
-    public AudioClip powerUp;
-    public AudioClip powerUpAppear;
-    public AudioClip stomp;
-    public AudioClip vine;
+    [SerializeField] private AudioClip marioDie;
+    [SerializeField] private AudioClip stageClear;
+    [SerializeField] private AudioClip castleClear;
+    [SerializeField] private AudioClip win;
+    [SerializeField] private AudioClip gameOver;
+    [SerializeField] private AudioClip _1up;
+    [SerializeField] private AudioClip bowserFall;
+    [SerializeField] private AudioClip bowserFire;
+    [SerializeField] private AudioClip coin;
+    [SerializeField] private AudioClip shootFireBall;
+    [SerializeField] private AudioClip flagPole;
+    [SerializeField] private AudioClip jump;
+    [SerializeField] private AudioClip pauseGame;
+    [SerializeField] private AudioClip pipe;
+    [SerializeField] private AudioClip powerUp;
+    [SerializeField] private AudioClip powerUpAppear;
+    [SerializeField] private AudioClip stomp;
+    [SerializeField] private AudioClip vine;
 
     void Awake()
     {

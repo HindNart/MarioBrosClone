@@ -5710,6 +5710,7 @@ MonoBehaviour:
   txtCoins: {fileID: 454047222}
   txtWorld: {fileID: 1284751530}
   txtLives: {fileID: 1626438110}
+  btnFireBall: {fileID: 1252624981}
   pauseMenu: {fileID: 1934263382}
   btnPauseMenu: {fileID: 1884686677}
   btnResume: {fileID: 2039320009}

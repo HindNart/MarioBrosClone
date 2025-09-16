@@ -3,10 +3,10 @@ using UnityEngine;
 
 public class Pipe : MonoBehaviour
 {
-    public Transform connection;
-    public Vector3 enterDirection = Vector3.down;
-    public Vector3 exitDirection = Vector3.zero;
-    public GameObject piranha;
+    [SerializeField] private Transform connection;
+    [SerializeField] private Vector3 enterDirection = Vector3.down;
+    [SerializeField] private Vector3 exitDirection = Vector3.zero;
+    [SerializeField] private GameObject piranha;
 
     private void Start()
     {

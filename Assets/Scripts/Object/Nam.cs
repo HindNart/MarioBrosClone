@@ -3,8 +3,8 @@ using UnityEngine;
 
 public class Nam : MonoBehaviour
 {
-    public float waitTime = 3f;
-    public int nextLevel = 5;
+    [SerializeField] private float waitTime = 3f;
+    [SerializeField] private int nextLevel = 5;
 
     public static event System.Action<int> OnUnlockLevel;
 

@@ -3,9 +3,9 @@ using UnityEngine;
 
 public class Bowser : MonoBehaviour
 {
-    public ObjectPool fireBreathPool;
-    public Transform firePoint;
-    public float fireInterval = 2f;
+    [SerializeField] private ObjectPool fireBreathPool;
+    [SerializeField] private Transform firePoint;
+    [SerializeField] private float fireInterval = 2f;
 
     private void Start()
     {

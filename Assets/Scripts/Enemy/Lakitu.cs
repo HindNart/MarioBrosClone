@@ -3,12 +3,12 @@ using UnityEngine;
 
 public class Lakitu : MonoBehaviour
 {
-    public Transform player;
-    public float moveSpeed = 5f;
-    public float followDistance = 5f;
-    public Transform spinySpawnPoint;
-    public ObjectPool spinyPool;
-    public float throwInterval = 3f;
+    [SerializeField] private Transform player;
+    [SerializeField] private float moveSpeed = 5f;
+    [SerializeField] private float followDistance = 5f;
+    [SerializeField] private Transform spinySpawnPoint;
+    [SerializeField] private ObjectPool spinyPool;
+    [SerializeField] private float throwInterval = 3f;
 
     private void Start()
     {

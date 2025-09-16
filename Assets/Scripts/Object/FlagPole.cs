@@ -3,11 +3,11 @@ using UnityEngine;
 
 public class FlagPole : MonoBehaviour
 {
-    public Transform flag;
-    public Transform poleBottom;
-    public Transform castle;
-    public float speed = 6f;
-    public int nextLevel = 1;
+    [SerializeField] private Transform flag;
+    [SerializeField] private Transform poleBottom;
+    [SerializeField] private Transform castle;
+    [SerializeField] private float speed = 6f;
+    [SerializeField] private int nextLevel = 1;
 
     public static event System.Action<int> OnUnlockLevel;
 

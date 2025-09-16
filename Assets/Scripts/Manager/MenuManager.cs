@@ -95,14 +95,4 @@ public class MenuManager : MonoBehaviour
         Application.Quit();
 #endif
     }
-
-    private void OnDestroy()
-    {
-        btnNewGame.onClick.RemoveListener(OnStartNewGameClicked);
-        btnQuit.onClick.RemoveListener(OnQuitGameClicked);
-        btnLevelSelect.onClick.RemoveListener(OnLevelSelectClicked);
-        btnCloseLevelSelect.onClick.RemoveListener(OnCloseLevelSelectClicked);
-        btnInstructions.onClick.RemoveListener(OnInstructionsClicked);
-        btnCloseInstructions.onClick.RemoveListener(OnCloseInstructionsClicked);
-    }
 }

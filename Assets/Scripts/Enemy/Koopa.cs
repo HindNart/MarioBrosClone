@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class Koopa : MonoBehaviour
 {
-    public float shellSpeed = 10f;
+    [SerializeField] private float shellSpeed = 10f;
 
     private Animator anim;
     private Rigidbody2D rb;

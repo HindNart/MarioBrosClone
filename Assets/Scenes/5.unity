@@ -9624,6 +9624,7 @@ MonoBehaviour:
   txtCoins: {fileID: 21949085}
   txtWorld: {fileID: 483368014}
   txtLives: {fileID: 783143919}
+  btnFireBall: {fileID: 1252624981}
   pauseMenu: {fileID: 806685003}
   btnPauseMenu: {fileID: 387908005}
   btnResume: {fileID: 1358137259}

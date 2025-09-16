@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public float moveSpeed = 5f;
-    public float jumpForce = 8f;
-    public LayerMask groundLayer;
-    public Transform groundCheck;
-    public ObjectPool fireBallPool;
-    public Transform firePoint;
+    [SerializeField] private float moveSpeed = 5f;
+    [SerializeField] private float jumpForce = 8f;
+    [SerializeField] private LayerMask groundLayer;
+    [SerializeField] private Transform groundCheck;
+    [SerializeField] private ObjectPool fireBallPool;
+    [SerializeField] private Transform firePoint;
 
     private Player player;
     private Camera _camera;

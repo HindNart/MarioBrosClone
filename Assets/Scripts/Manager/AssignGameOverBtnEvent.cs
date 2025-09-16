@@ -3,8 +3,8 @@ using UnityEngine.UI;
 
 public class AssignGameOverBtnEvent : MonoBehaviour
 {
-    public Button btnReplay;
-    public Button btnRewarded;
+    [SerializeField] private Button btnReplay;
+    [SerializeField] private Button btnRewarded;
 
     private void Start()
     {

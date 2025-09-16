@@ -3,19 +3,20 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public SpriteRenderer smallState;
-    public SpriteRenderer bigState;
+    [SerializeField] private SpriteRenderer smallState;
+    [SerializeField] private SpriteRenderer bigState;
     private SpriteRenderer activeState;
 
-    public Animator animSmall;
-    public Animator animBig;
+    [SerializeField] private Animator animSmall;
+    [SerializeField] private Animator animBig;
 
     private Rigidbody2D rb;
     private CapsuleCollider2D capsuleCollider;
 
-    public bool big;
+    [SerializeField] private bool big;
     public bool starPower { get; private set; }
     public bool fireFlowerPower { get; private set; }
+    public static event System.Action GetFireFlowerPower;
 
     private void Start()
     {
@@ -80,7 +81,10 @@ public class Player : MonoBehaviour
 
         AudioManager.Instance.PlayMarioDieSound();
 
+        if (fireFlowerPower)
+            GetFireFlowerPower?.Invoke();
         fireFlowerPower = false;
+
         GetComponent<Collider2D>().enabled = false;
         GetComponent<PlayerController>().enabled = false;
         GetComponentInChildren<SpriteRenderer>().sortingLayerName = "MarioDie";
@@ -107,6 +111,9 @@ public class Player : MonoBehaviour
         smallState.enabled = true;
         bigState.enabled = false;
         activeState = smallState;
+
+        if (fireFlowerPower)
+            GetFireFlowerPower?.Invoke();
         fireFlowerPower = false;
 
         capsuleCollider.size = new Vector2(0.7489042f, 0.9855137f);
@@ -171,6 +178,8 @@ public class Player : MonoBehaviour
     {
         AudioManager.Instance.PlayPowerUpSound();
 
+        if (!fireFlowerPower)
+            GetFireFlowerPower?.Invoke();
         fireFlowerPower = true;
     }
 }

@@ -44,7 +44,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 128555703869869022}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: fe61f469092986e45909ae01bdfc6483, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -95,6 +95,7 @@ MonoBehaviour:
   connection: {fileID: 0}
   enterDirection: {x: 0, y: -1, z: 0}
   exitDirection: {x: 0, y: 0, z: 0}
+  piranha: {fileID: 0}
 --- !u!1 &2283234240089872715
 GameObject:
   m_ObjectHideFlags: 0

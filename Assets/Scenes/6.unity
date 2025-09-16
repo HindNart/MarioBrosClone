@@ -482,54 +482,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4894218070948970814, guid: dad92e64edaab0144988c1b46de9196d, type: 3}
   m_PrefabInstance: {fileID: 22080176}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &30760316
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 30760318}
-  - component: {fileID: 30760317}
-  m_Layer: 0
-  m_Name: EventBtn
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &30760317
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 30760316}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6bf03c337e057ac44b56ddedf69b97d5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  menu: {fileID: 211046414}
-  btnContinue: {fileID: 1532414886}
-  btnBack: {fileID: 286419234}
-  menuPause: {fileID: 1067995357}
---- !u!4 &30760318
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 30760316}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &34755008
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1348,7 +1300,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 30760317}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: AssignPauseMenuBtnEvent, Assembly-CSharp
         m_MethodName: Pause
         m_Mode: 1
@@ -7977,9 +7929,9 @@ RectTransform:
   - {fileID: 1067995360}
   m_Father: {fileID: 208553850}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0.000014305115}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 0, y: -443}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1205478479
@@ -10059,7 +10011,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 30760317}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: AssignPauseMenuBtnEvent, Assembly-CSharp
         m_MethodName: Continue
         m_Mode: 1
@@ -10527,6 +10479,57 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8698806899192988126, guid: e58274fd31abc2646bfa864ee3b9aaee, type: 3}
   m_PrefabInstance: {fileID: 1586255197}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1604804396
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1604804398}
+  - component: {fileID: 1604804397}
+  m_Layer: 0
+  m_Name: UIManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1604804397
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1604804396}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a01ad160d8fa78c45921a3ec9e1921d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  txtCoins: {fileID: 1606389140}
+  txtWorld: {fileID: 1950702104}
+  txtLives: {fileID: 1870826536}
+  pauseMenu: {fileID: 1067995357}
+  btnPauseMenu: {fileID: 211046414}
+  btnResume: {fileID: 1532414886}
+  btnReturnToMainMenu: {fileID: 286419234}
+--- !u!4 &1604804398
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1604804396}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1606389138
 GameObject:
   m_ObjectHideFlags: 0
@@ -11781,7 +11784,7 @@ PrefabInstance:
       objectReference: {fileID: 2074136208}
     - target: {fileID: 7669651750661527837, guid: 7c29232bdf9f4114da4ab077f969fe66, type: 3}
       propertyPath: moveSpeed
-      value: 3
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 7669651750661527837, guid: 7c29232bdf9f4114da4ab077f969fe66, type: 3}
       propertyPath: spinyPool
@@ -13727,10 +13730,10 @@ Transform:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 1604804398}
   - {fileID: 519420032}
   - {fileID: 574352926}
   - {fileID: 208553850}
   - {fileID: 412490839}
   - {fileID: 801987060}
   - {fileID: 1052659392}
-  - {fileID: 30760318}

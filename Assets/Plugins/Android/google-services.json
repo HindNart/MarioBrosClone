@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026144684545",
+    "project_id": "mario-clone-608f3",
+    "storage_bucket": "mario-clone-608f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026144684545:android:8688d55e03520d527cce00",
+        "android_client_info": {
+          "package_name": "com.hindnart.supermarioclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYx2hbqwr9_3LBqwCVhHzqVAER6zvgkpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

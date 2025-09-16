@@ -6680,12 +6680,12 @@ TextureImporter:
       name: misc_268
       rect:
         serializedVersion: 2
-        x: 193
+        x: 197
         y: 7
-        width: 16
-        height: 53
+        width: 8
+        height: 37
       alignment: 9
-      pivot: {x: 0.51794815, y: 0.83593327}
+      pivot: {x: 0.47837257, y: 0.9202204}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

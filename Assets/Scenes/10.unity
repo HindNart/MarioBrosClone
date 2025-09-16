@@ -2360,8 +2360,8 @@ RectTransform:
   m_Children:
   - {fileID: 509129187}
   - {fileID: 204576626}
-  - {fileID: 1134717161}
   - {fileID: 430565581}
+  - {fileID: 1134717161}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -4438,9 +4438,9 @@ RectTransform:
   - {fileID: 1031174671}
   m_Father: {fileID: 208553850}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 63.387856, y: 0.000014305115}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 0, y: -443}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &432812761
@@ -11918,54 +11918,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8698806899192988126, guid: fff5091360ebfed408574b6c1395912c, type: 3}
   m_PrefabInstance: {fileID: 1079063448}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1088980457
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1088980459}
-  - component: {fileID: 1088980458}
-  m_Layer: 0
-  m_Name: EventBtn
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1088980458
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1088980457}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6bf03c337e057ac44b56ddedf69b97d5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  menu: {fileID: 1128172017}
-  btnContinue: {fileID: 1925033930}
-  btnBack: {fileID: 331505258}
-  menuPause: {fileID: 1031174668}
---- !u!4 &1088980459
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1088980457}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1116239742
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12205,7 +12157,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 760.4562, y: 319.5}
+  m_AnchoredPosition: {x: 824.042, y: 319.5}
   m_SizeDelta: {x: 15, y: 15}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1128172015
@@ -12290,7 +12242,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1088980458}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: AssignPauseMenuBtnEvent, Assembly-CSharp
         m_MethodName: Pause
         m_Mode: 1
@@ -18876,7 +18828,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1088980458}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: AssignPauseMenuBtnEvent, Assembly-CSharp
         m_MethodName: Continue
         m_Mode: 1
@@ -19847,6 +19799,57 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8698806899192988126, guid: fff5091360ebfed408574b6c1395912c, type: 3}
   m_PrefabInstance: {fileID: 2015391973}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2016721710
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2016721712}
+  - component: {fileID: 2016721711}
+  m_Layer: 0
+  m_Name: UIManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2016721711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2016721710}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a01ad160d8fa78c45921a3ec9e1921d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  txtCoins: {fileID: 929847527}
+  txtWorld: {fileID: 352698640}
+  txtLives: {fileID: 1146681837}
+  pauseMenu: {fileID: 1031174668}
+  btnPauseMenu: {fileID: 1128172017}
+  btnResume: {fileID: 1925033930}
+  btnReturnToMainMenu: {fileID: 331505258}
+--- !u!4 &2016721712
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2016721710}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2025852022
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21043,9 +21046,9 @@ PrefabInstance:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 2016721712}
   - {fileID: 519420032}
   - {fileID: 574352926}
   - {fileID: 208553850}
   - {fileID: 412490839}
   - {fileID: 1867740772}
-  - {fileID: 1088980459}

@@ -194,7 +194,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 0}
-  moveSpeed: 3
+  moveSpeed: 5
   followDistance: 5
   spinySpawnPoint: {fileID: 1960119253410037662}
   spinyPool: {fileID: 0}

@@ -272,7 +272,7 @@ public class AdsManager : MonoBehaviour
 #endif
 
     private RewardedAd _rewardedAd;
-    private ToastPlugin _toastPlugin;
+    public static event Action<string> OnUserEarnedReward;
 
     /// <summary>
     /// Loads the rewarded ad.
@@ -369,8 +369,7 @@ public class AdsManager : MonoBehaviour
         {
             Debug.LogError("Rewarded ad failed to open full screen content " +
                            "with error : " + error);
-            _toastPlugin = gameObject.AddComponent<ToastPlugin>();
-            _toastPlugin.ShowToast("Please check your internet connection!");
+            OnUserEarnedReward?.Invoke("Please check your internet connection!");
             LoadRewardedAd();
         };
     }

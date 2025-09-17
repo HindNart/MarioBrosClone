@@ -17,12 +17,8 @@ public class UIManager : MonoBehaviour
     [SerializeField] private Button btnResume;
     [SerializeField] private Button btnReturnToMainMenu;
 
-    private void Start()
+    private void OnEnable()
     {
-        txtCoins.text = "Coins\n" + GameManager.Instance.coins.ToString();
-        txtWorld.text = "World\n" + GameManager.Instance.world.ToString();
-        txtLives.text = "Lives\n" + GameManager.Instance.lives.ToString();
-
         GameManager.OnCoinChanged += () => UpdateCoins(GameManager.Instance.coins);
         GameManager.OnLifeChanged += () => UpdateLives(GameManager.Instance.lives);
         Player.GetFireFlowerPower += () => UpdateFireFlowerPower();
@@ -30,6 +26,14 @@ public class UIManager : MonoBehaviour
         btnPauseMenu.onClick.AddListener(TogglePauseMenu);
         btnResume.onClick.AddListener(OnResumeGameClicked);
         btnReturnToMainMenu.onClick.AddListener(OnReturnToMainMenuClicked);
+    }
+
+    private void Start()
+    {
+        txtCoins.text = "Coins\n" + GameManager.Instance.coins.ToString();
+        txtWorld.text = "World\n" + GameManager.Instance.world.ToString();
+        txtLives.text = "Lives\n" + GameManager.Instance.lives.ToString();
+
         btnFireBall.gameObject.SetActive(false);
         pauseMenu.SetActive(false);
     }
@@ -81,8 +85,12 @@ public class UIManager : MonoBehaviour
         btnFireBall.gameObject.SetActive(!isActive);
     }
 
-    private void OnDestroy()
+    private void OnDisable()
     {
+        GameManager.OnCoinChanged -= () => UpdateCoins(GameManager.Instance.coins);
+        GameManager.OnLifeChanged -= () => UpdateLives(GameManager.Instance.lives);
+        Player.GetFireFlowerPower -= () => UpdateFireFlowerPower();
+
         btnPauseMenu.onClick.RemoveAllListeners();
         btnResume.onClick.RemoveAllListeners();
         btnReturnToMainMenu.onClick.RemoveAllListeners();

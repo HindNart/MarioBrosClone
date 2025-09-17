@@ -36,17 +36,20 @@ public class MenuManager : MonoBehaviour
         }
     }
 
-    private void Start()
+    private void OnEnable()
     {
-        levelSelection.SetActive(false);
-        instructions.SetActive(false);
-
         btnNewGame.onClick.AddListener(OnStartNewGameClicked);
         btnQuit.onClick.AddListener(OnQuitGameClicked);
         btnLevelSelect.onClick.AddListener(OnLevelSelectClicked);
         btnCloseLevelSelect.onClick.AddListener(OnCloseLevelSelectClicked);
         btnInstructions.onClick.AddListener(OnInstructionsClicked);
         btnCloseInstructions.onClick.AddListener(OnCloseInstructionsClicked);
+    }
+
+    private void Start()
+    {
+        levelSelection.SetActive(false);
+        instructions.SetActive(false);
     }
 
     private void OnStartNewGameClicked()
@@ -58,7 +61,7 @@ public class MenuManager : MonoBehaviour
     {
         levelSelection.SetActive(true);
 
-        unlockedLevels = PlayerPrefs.GetInt("UnlockedLvl", 0);
+        unlockedLevels = PlayerPrefs.GetInt("UnlockedLvl", 1);
         for (int i = currentLvl; i < maxLvl; i++)
         {
             if (i < unlockedLevels)

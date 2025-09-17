@@ -6,7 +6,7 @@ public class LevelSelectionManager : MonoBehaviour
     private int maxLvl = 10;
     private int unlockedLevels = 0;
 
-    private void Awake()
+    private void OnEnable()
     {
         FlagPole.OnUnlockLevel += UnlockLevel;
         Nam.OnUnlockLevel += UnlockLevel;
@@ -14,7 +14,7 @@ public class LevelSelectionManager : MonoBehaviour
 
     private void UnlockLevel(int lvl)
     {
-        unlockedLevels = PlayerPrefs.GetInt("UnlockedLvl", 0);
+        unlockedLevels = PlayerPrefs.GetInt("UnlockedLvl", 1);
         if (lvl > maxLvl)
         {
             unlockedLevels = maxLvl;

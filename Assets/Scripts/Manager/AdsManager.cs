@@ -317,17 +317,24 @@ public class AdsManager : MonoBehaviour
         const string rewardMsg =
             "Rewarded ad rewarded the user. Type: {0}, amount: {1}.";
 
+        // Kiểm tra internet trước khi show quảng cáo
+        if (Application.internetReachability == NetworkReachability.NotReachable)
+        {
+            OnUserEarnedReward?.Invoke("No Internet Connection. Please connect to the internet!");
+            return;
+        }
+
         if (_rewardedAd != null && _rewardedAd.CanShowAd())
         {
             _rewardedAd.Show((Reward reward) =>
             {
-                // TODO: Reward the user.
-                // int world = GameManager.Instance.world;
-                // GameManager.Instance.AddLife();
-                // GameManager.Instance.LoadLevel(world);
-
                 Debug.Log(String.Format(rewardMsg, reward.Type, reward.Amount));
             });
+        }
+        else
+        {
+            Debug.LogError("Rewarded ad is not ready yet.");
+            OnUserEarnedReward?.Invoke("Rewarded ad is not ready yet. Please try again later!");
         }
     }
 

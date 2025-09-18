@@ -12,10 +12,6 @@ public class GameOverManager : MonoBehaviour
 
     private void OnEnable()
     {
-        AdsManager.OnUserEarnedReward += (txt) => HandleUserEarnedReward(txt);
-        btnCloseNotification.onClick.RemoveAllListeners();
-        btnCloseNotification.onClick.AddListener(CloseNotification);
-
         if (GameManager.Instance != null)
         {
             btnReplay.onClick.RemoveAllListeners();
@@ -26,7 +22,12 @@ public class GameOverManager : MonoBehaviour
         {
             btnRewarded.onClick.RemoveAllListeners();
             btnRewarded.onClick.AddListener(AdsManager.Instance.ShowRewardedAd);
+
+            AdsManager.OnUserEarnedReward += HandleUserEarnedReward;
         }
+
+        btnCloseNotification.onClick.RemoveAllListeners();
+        btnCloseNotification.onClick.AddListener(CloseNotification);
     }
 
     private void Start()
@@ -34,9 +35,9 @@ public class GameOverManager : MonoBehaviour
         notification.SetActive(false);
     }
 
-    private void HandleUserEarnedReward(string txt)
+    private void HandleUserEarnedReward(string message)
     {
-        txtNotification.text = txt;
+        txtNotification.text = message;
         notification.SetActive(true);
     }
 
@@ -49,5 +50,7 @@ public class GameOverManager : MonoBehaviour
     {
         AdsManager.OnUserEarnedReward -= (txt) => HandleUserEarnedReward(txt);
         btnCloseNotification.onClick.RemoveAllListeners();
+        btnReplay.onClick.RemoveAllListeners();
+        btnRewarded.onClick.RemoveAllListeners();
     }
 }
